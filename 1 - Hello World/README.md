@@ -1,6 +1,6 @@
 # Alexa-Hello-World - 2 Way Sample App
 
-A very simple step by step, XXXX minutes demo (see video at the end of read me) of developing very simple skill of 2 way communication.
+A very simple step by step, XXXX minutes demo (see video at the end of read me) of developing very simple skill of 2 way communication with Alexa.
 
 This simple app will help you understand
 - How to create skill in developer.amazon.com
