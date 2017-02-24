@@ -8,7 +8,7 @@ exports.handler = function(event, context, callback) {
 };
 
 var handlers = {
-    'LaunchRequest': function() {
+    'LaunchRequest': function() { //Executes when a new session is launched
         this.emit('LaunchIntent');
     },
 
