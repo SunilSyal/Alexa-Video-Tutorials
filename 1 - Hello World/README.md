@@ -10,10 +10,10 @@ This simple app will help you understand
 
 # Pre-requisite
 - Create an account and login for
--- https://developer.amazon.com
--- https://aws.amazon.com
+- https://developer.amazon.com
+- https://aws.amazon.com
 
 # Video
 Watch this video to learn the steps to create sample application.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6TQdwzztltc/0.jpg)](https://www.youtube.com/watch?v=6TQdwzztltc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V0PwCFrIfwg/0.jpg)](https://www.youtube.com/watch?v=V0PwCFrIfwg&t=9s)
