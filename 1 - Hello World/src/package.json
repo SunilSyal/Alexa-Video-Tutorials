@@ -1,0 +1,10 @@
+{
+  "name": "Alexa-Hello-World",
+  "version": "1.0.0",
+  "description": "Hello world skill",
+  "main": "index.js",
+  "author": "Sunil Syal",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}

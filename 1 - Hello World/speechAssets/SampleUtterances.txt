@@ -1,0 +1,3 @@
+HelloIntent hello how are you
+HelloIntent I am fine how are you
+HelloIntent hello
