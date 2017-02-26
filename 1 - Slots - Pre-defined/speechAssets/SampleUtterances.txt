@@ -1,0 +1,3 @@
+NumberIntent {myNumber}
+NumberIntent my number is {myNumber}
+NumberIntent Say anything but must say {myNumber} somewhere in your speech

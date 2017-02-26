@@ -1,0 +1,9 @@
+{
+    "intents": [{
+        "intent": "NumberIntent",
+        "slots": [{
+            "name": "myNumber",
+            "type": "AMAZON.NUMBER"
+        }]
+    }]
+}
