@@ -1,14 +1,16 @@
-# Alexa-Hello-World - 2 Way Communication App
+# Alexa-Slots-Pre-Defined
 
-A very simple step by step, 12:56 minutes demo (see video at the end of read me) of developing very simple skill of 2 way communication with Alexa.
+A very simple step by step, xxxxx minutes demo (see video at the end of read me) of developing very simple skill of using a predefined slot.
+
+To know different types of skills, visit:
+https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/built-in-intent-ref/slot-type-reference#numbers-dates-and-times
 
 This simple app will help you understand
-- How to create skill in developer.amazon.com
-- How to write intents and sample utterances
-- How to write skill functionality in node and upload in lambda in aws.amazon.com
-- Testing a skill using https://echosim.io/
+- How to add a predefined slot in your app
+- How to access the value of slot in your app
 
 # Pre-requisite
+- Go through previous sample - Hello World App - https://github.com/SunilSyal/Alexa-Video-Tutorials/tree/master/1%20-%20Hello%20World
 - Create an account and login for
 - https://developer.amazon.com
 - https://aws.amazon.com
