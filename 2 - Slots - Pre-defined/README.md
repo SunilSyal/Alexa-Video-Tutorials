@@ -1,6 +1,6 @@
 # Alexa-Slots-Pre-Defined
 
-A very simple step by step, xxxxx minutes demo (see video at the end of read me) of developing very simple skill of using a predefined slot.
+A very simple step by step, 7.03 minutes demo (see video at the end of read me) of developing very simple skill of using a predefined slot.
 
 To know different types of skills, visit:
 https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/built-in-intent-ref/slot-type-reference#numbers-dates-and-times
@@ -18,4 +18,4 @@ This simple app will help you understand
 # Video
 Watch this video to learn the steps to create sample application.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V0PwCFrIfwg/0.jpg)](https://www.youtube.com/watch?v=V0PwCFrIfwg&t=9s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DcRsZzncHVw/0.jpg)](https://www.youtube.com/watch?v=DcRsZzncHVw&t=9s)
