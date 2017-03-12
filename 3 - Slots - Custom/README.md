@@ -16,4 +16,4 @@ This simple app will help you understand
 # Video
 Watch this video to learn the steps to create predefined slot application.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/szga4LzDyx8/0.jpg)](https://www.youtube.com/watch?v=szga4LzDyx8&t=9s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/szga4LzDyx8/0.jpg)](https://www.youtube.com/watch?v=szga4LzDyx8&feature=youtu.be)
