@@ -1,0 +1,5 @@
+LanguageIntent {myLangauge}
+LanguageIntent my langauge is {myLangauge}
+LanguageIntent Say anything but must say {myLangauge} somewhere in your speech
+
+TestIntent Can you tell me my langauge.

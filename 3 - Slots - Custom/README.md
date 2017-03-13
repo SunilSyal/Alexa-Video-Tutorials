@@ -1,6 +1,6 @@
 # Alexa-Slots-Custom
 
-A very simple step by step, 7.03 minutes demo (see video at the end of read me) of developing very simple skill of using a custom slot.
+A very simple step by step, demo (see video at the end of read me) of developing very simple skill of using a custom slot.
 
 This simple app will help you understand
 - How to add a custom slot in your app

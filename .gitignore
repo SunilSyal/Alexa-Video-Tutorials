@@ -20,3 +20,9 @@
 *.cfa
 
 *.pek
+
+node_modules/
+
+*.m4v
+
+*.aac
