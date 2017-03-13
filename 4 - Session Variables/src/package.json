@@ -1,7 +1,7 @@
 {
-  "name": "Alexa-Slots-Pre-Defined",
+  "name": "Alexa-Session-Variables",
   "version": "1.0.0",
-  "description": "Sample app for pre-defined slots in a skill",
+  "description": "Sample app for session variables",
   "main": "index.js",
   "author": "Sunil Syal",
   "dependencies": {
