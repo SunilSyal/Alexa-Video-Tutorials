@@ -1,0 +1,10 @@
+{
+  "name": "Alexa-Database__Multi-Session-Variables",
+  "version": "1.0.0",
+  "description": "Sample app to save values in dynamoDB to use in multiple session",
+  "main": "index.js",
+  "author": "Sunil Syal",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
