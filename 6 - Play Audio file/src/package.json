@@ -1,0 +1,10 @@
+{
+  "name": "Alexa-Play-Audio-File",
+  "version": "1.0.0",
+  "description": "Sample app to play audio file in response",
+  "main": "index.js",
+  "author": "Sunil Syal",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
