@@ -14,4 +14,4 @@ This simple app will help you understand
 # Video
 Watch this video to learn the steps.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MRV48SKDyEc/0.jpg)](https://www.youtube.com/watch?v=MRV48SKDyEc&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xNiAhux4zAg/0.jpg)](https://www.youtube.com/watch?v=xNiAhux4zAg&feature=youtu.be)
