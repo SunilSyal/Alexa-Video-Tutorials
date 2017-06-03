@@ -15,4 +15,4 @@ Watch videos to learn the steps to create sample applications.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kNDfJEOKN5A/0.jpg)](https://www.youtube.com/watch?v=kNDfJEOKN5A&feature=youtu.be)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xNiAhux4zAg/0.jpg)](https://www.youtube.com/watch?v=xNiAhux4zAg&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QQcRgnWoyoM/0.jpg)](https://www.youtube.com/watch?v=QQcRgnWoyoM&feature=youtu.be)
